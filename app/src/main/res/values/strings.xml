@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">SimpleSwipeRefreshLayout</string>
+
+    <string-array name="kor_fruits">
+        <item>사과</item>
+        <item>감</item>
+        <item>배</item>
+        <item>참외</item>
+        <item>포도</item>
+        <item>무화가</item>
+        <item>석류</item>
+        <item>대추</item>
+        <item>망고</item>
+        <item>유자</item>
+        <item>수박</item>
+        <item>오렌지</item>
+        <item>귤</item>
+        <item>라임</item>
+        <item>복숭아</item>
+        <item>블루베리</item>
+        <item>자두</item>
+        <item>딸기</item>
+        <item>키위</item>
+        <item>바나나</item>
+        <item>용과</item>
+        <item>구아바</item>
+        <item>아보카도</item>
+        <item>앵두</item>
+        <item>파인애플</item>
+        <item>토마토</item>
+        <item>모과</item>
+        <item>자몽</item>
+        <item>방울토마토</item>
+        <item>살구</item>
+        <item>홍시</item>
+        <item>밤</item>
+        <item>잣</item>
+        <item>복분자</item>
+        <item>샤인 머스캣</item>
+    </string-array>
+
+    <string-array name="eng_fruits">
+        <item>Apple</item>
+        <item>Persimmon</item>
+        <item>Pear</item>
+        <item>Oriental Melon</item>
+        <item>Grapes</item>
+        <item>Fig</item>
+        <item>Pomegranate</item>
+        <item>Jujube</item>
+        <item>Mango</item>
+        <item>Yuja/Citron</item>
+        <item>Watermelon</item>
+        <item>Orange</item>
+        <item>Mandarin/Tangerine</item>
+        <item>Lime</item>
+        <item>Peach</item>
+        <item>Blueberry</item>
+        <item>Plum</item>
+        <item>Strawberry</item>
+        <item>Kiwi</item>
+        <item>Banana</item>
+        <item>Dragon Fruit</item>
+        <item>Guava</item>
+        <item>Avocado</item>
+        <item>Cherry</item>
+        <item>Pineapple</item>
+        <item>Tomato</item>
+        <item>Quince</item>
+        <item>Grapefruit</item>
+        <item>Cherry tomato</item>
+        <item>Apricot</item>
+        <item>ripe persimmon</item>
+        <item>Chestnut</item>
+        <item>Pine nut</item>
+        <item>Korean blackberry</item>
+        <item>Shine muscat</item>
+    </string-array>
+</resources>
